@@ -1,0 +1,7 @@
+/* this could also be div p, but this method shows you can use descendant combination for classes AND types */
+div .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
